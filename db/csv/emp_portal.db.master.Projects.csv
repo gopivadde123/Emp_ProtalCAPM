@@ -1,0 +1,4 @@
+ProjectId, ProjectName, ProjectDescription, ProjectManager, StartDate, EndDate, ProjectCategory, ProjectStatus, EmployeesCount
+1001, Project A, Development of new software application, John Doe, 2023-01-01, 2023-12-31, Software Development, Active, 3
+1002, Project B, Implementation of HR management system, Jane Smith, 2023-02-01, 2023-11-30, HR Management, Active, 1
+1003, Project C, Financial reporting system upgrade, Bob Brown, 2023-03-01, 2023-10-31, Finance, Completed, 1

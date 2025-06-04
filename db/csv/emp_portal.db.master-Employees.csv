@@ -1,0 +1,6 @@
+EmployeeId, EmpName, EmpDep, EmpRole, EmpProject, Project_GUID_ProjectId
+1, John Doe, IT, Software Engineer, Project A, 1001
+2, Jane Smith, HR, HR Manager, Project B, 1002
+3, Alice Johnson, IT, Data Analyst, Project A, 1001
+4, Bob Brown, Finance, Accountant, Project C, 1003
+5, Charlie Davis, IT, DevOps Engineer, Project A, 1001
